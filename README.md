@@ -1,4 +1,4 @@
-# recipes
+# Flutter Recipes App
 
 First Project based on Flutter Apprentice Second Edition Book.
 [Flutter Apprentice | By Vincenzo Guzzi, Kevin D Moore, Vincent Ngo and Michael Katz](https://www.raywenderlich.com/books/flutter-apprentice)
